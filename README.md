@@ -17,3 +17,9 @@ New in version 2.1 :
 This version is created specially for those OSs who use "su" rather than "sudo"
 to program the target chip. For example it's tested on Debian-7.2.0. 
 
+
+Windows Users : 
+===============
+
+Windows users can use either AVR-Makefile-Windows.zip(no color) or AVR-Makefile-v2-Windows.zip. Usage stays same. 
+
