@@ -14,9 +14,8 @@ for avr-gcc and AVR assembler. See the example from AVR-Makefile-linux.
 Version 3.0 :
 =============
 
-	* Linux and windows versions are merged. So you can use the same files on 
-both Linux and windows(winavr).
-	* Some bugfixes
+	* Linux and windows versions are merged. So you can use the same files on both Linux and windows(winavr).
+	* Some bugfixes.
 	* EEPROM data is saved in .eep file now.
 
 
