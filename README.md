@@ -10,6 +10,9 @@ Usage :
 Easy to use and highly configurable Makefile suite
 for avr-gcc and AVR assembler. See the example from AVR-Makefile-linux.
 
+Version 3.1 :
+=============
+	* Little modifications like removed colored output. It conflicts if you are using differents shells.
 
 Version 3.0 :
 =============
